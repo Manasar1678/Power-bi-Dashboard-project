@@ -45,7 +45,7 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 -  Helps HR teams proactively design retention strategies  
 
 ##  Dashboard Preview
-![HR Dashboard Overview] ("C:\Users\Manasa R\OneDrive\Pictures\Screenshots\Screenshot 2025-06-13 105310.png")
+![HR Dashboard Overview] ("HR Analytics img.png")
 
 ![HR Analytics img](https://github.com/user-attachments/assets/00aa65aa-bf90-44db-8215-14f6ecba5ea7)
 
@@ -54,7 +54,7 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 ## How to Use
 1. Clone or download this repository  
 2. Open `HR_Analytics_Dashboard.pbix` in **Power BI Desktop**  
-3. Load the dataset from `/Dataset/HR_Employee_Data.csv`  
+3. Load the dataset from 'HR data analytics.csv.xlsx'  
 4. Refresh visuals and interact with filters and visuals  
 
 

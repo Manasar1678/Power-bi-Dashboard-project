@@ -5,7 +5,7 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 
 ## Dashboard link : 
 https://github.com/Manasar1678/Power-bi-Dashboard-project/blob/main/HR_Analytics.pbix
-## Dataset : 
+## Dataset link : 
 https://github.com/Manasar1678/Power-bi-Dashboard-project/blob/main/HR%20data%20analytics.csv.xlsx
 
 ## Key Features

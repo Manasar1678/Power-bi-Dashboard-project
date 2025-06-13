@@ -47,6 +47,8 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 ##  Dashboard Preview
 ![HR Dashboard Overview] (./Screenshots/dashboard_overview.png)
 
+![HR Analytics img](https://github.com/user-attachments/assets/00aa65aa-bf90-44db-8215-14f6ecba5ea7)
+
 
 
 ## How to Use

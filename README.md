@@ -3,6 +3,8 @@ This project aims to help organizations improve employee performance and reduce 
 ## Project Objective
 The objective of this project is to build an HR Analytics Dashboard using Power BI to visualize and analyze employee data, helping organizations identify patterns in attrition, job satisfaction, and employee demographics. By tracking key HR KPIs, the dashboard enables data-driven decision-making to enhance employee retention and overall performance.
 
+## Dashboard link : https://github.com/Manasar1678/Power-bi-Dashboard-project/blob/main/HR_Analytics.pbix
+
 ## Key Features
 - **Total Employees** – Real-time count of active employees  
 - **Attrition & Attrition Rate** – Trends over time with filters by department, role, and education  

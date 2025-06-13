@@ -19,7 +19,7 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 - **DAX Measures** for KPIs and calculated fields
 
 ## Dataset Used
-- **Name**: HR_Employee_Data.csv  
+- **Name**: HR data analytics.csv.xlsx  
 - **Source**: Sample HR data with fields including:
   - Employee ID, Age, Gender, Department, Education, Job Role  
   - Monthly Income, Job Satisfaction, Attrition, Years at Company  
@@ -45,7 +45,7 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 -  Helps HR teams proactively design retention strategies  
 
 ##  Dashboard Preview
-![HR Dashboard Overview] (./Screenshots/dashboard_overview.png)
+![HR Dashboard Overview] ("C:\Users\Manasa R\OneDrive\Pictures\Screenshots\Screenshot 2025-06-13 105310.png")
 
 ![HR Analytics img](https://github.com/user-attachments/assets/00aa65aa-bf90-44db-8215-14f6ecba5ea7)
 

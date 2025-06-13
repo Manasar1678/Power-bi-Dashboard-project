@@ -3,7 +3,10 @@ This project aims to help organizations improve employee performance and reduce 
 ## Project Objective
 The objective of this project is to build an HR Analytics Dashboard using Power BI to visualize and analyze employee data, helping organizations identify patterns in attrition, job satisfaction, and employee demographics. By tracking key HR KPIs, the dashboard enables data-driven decision-making to enhance employee retention and overall performance.
 
-## Dashboard link : https://github.com/Manasar1678/Power-bi-Dashboard-project/blob/main/HR_Analytics.pbix
+## Dashboard link : 
+https://github.com/Manasar1678/Power-bi-Dashboard-project/blob/main/HR_Analytics.pbix
+## Dataset : 
+https://github.com/Manasar1678/Power-bi-Dashboard-project/blob/main/HR%20data%20analytics.csv.xlsx
 
 ## Key Features
 - **Total Employees** – Real-time count of active employees  
@@ -14,11 +17,6 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 - **Attrition by Education Level** – Track attrition by educational background  
 - **Job Satisfaction Scores** – Visual breakdown of satisfaction levels  
 - **Interactive Filters** – Slicers for department, gender, education field, job level, and more  
-
-
-- **Power BI** for data visualization
-- **CSV Dataset** (HR employee records)
-- **DAX Measures** for KPIs and calculated fields
 
 ## Dataset Used
 - **Name**: HR data analytics.csv.xlsx  
@@ -39,7 +37,6 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 -Job Satisfaction Breakdown – Provides a visual summary of employee satisfaction scores across the organization
 
 ##  Key Insights Derived
-
 -  High attrition observed in certain job roles and education levels  
 -  Employees with lower job satisfaction tend to leave early  
 -  Employees with fewer years at the company have higher attrition  
@@ -47,11 +44,7 @@ The objective of this project is to build an HR Analytics Dashboard using Power 
 -  Helps HR teams proactively design retention strategies  
 
 ##  Dashboard Preview
-![HR Dashboard Overview] ("HR Analytics img.png")
-
 ![HR Analytics img](https://github.com/user-attachments/assets/00aa65aa-bf90-44db-8215-14f6ecba5ea7)
-
-
 
 ## How to Use
 1. Clone or download this repository  
